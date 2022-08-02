@@ -1,6 +1,6 @@
 {
-  "name": "loopback-rabbitmq",
-  "version": "1.1.8",
+  "name": "@fidera/loopback-rabbitmq",
+  "version": "1.1.9",
   "description": "loopback-rabbitmq",
   "keywords": [
     "loopback-extension",
@@ -40,8 +40,8 @@
     "!*/__tests__"
   ],
   "peerDependencies": {
-    "@loopback/core": "^2.15.1",
-    "@loopback/context": "^3.15.1"
+    "@loopback/core": "^4.0.2",
+    "@loopback/context": "^5.0.2"
   },
   "dependencies": {
     "@loopback/boot": "^5.0.2",
